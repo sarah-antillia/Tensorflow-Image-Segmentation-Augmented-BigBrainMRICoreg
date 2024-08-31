@@ -146,7 +146,7 @@ origina BigBrain dataset from
 └─sub-PD25
     └─anat
 </pre>
-We created our BigBrain-ICBM2009asym-IMageMask-Dataset from sub-ICBM2009asym of BigBrain by using 
+We created our BigBrain-ICBM2009asym-ImageMask-Dataset from sub-ICBM2009asym of BigBrain by using 
 <a href="./generator/ImageMaskDatasetGenerator.py">ImageMaskDatasetGenerator.py</a><br>
 
 <br>
