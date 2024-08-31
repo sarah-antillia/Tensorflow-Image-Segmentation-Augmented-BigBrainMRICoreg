@@ -408,7 +408,7 @@ Evaluation console output:<br>
 
 <a href="./projects/TensorflowSlightlyFlexibleUNet/BigBrain-ICBM2009asym/evaluation.csv">evaluation.csv</a><br>
 
-The loss (bce_dice_loss) to this BigBrain-ICBM2009asym/test was low, and dice_coef not relatively high as shown below.
+The loss (bce_dice_loss) to this BigBrain-ICBM2009asym/test was low, and dice_coef relatively high as shown below.
 <br>
 <pre>
 loss,0.0945
